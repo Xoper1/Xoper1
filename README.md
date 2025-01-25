@@ -10,12 +10,6 @@
 - 🐍 Python
 - ☕ Java
 - 🛠️ Git e GitHub
-//
-🎓 Graduated in Systems Analysis and Development
-🌍 Seeking an internship in the field as a developer
-💻 Passionate about technology
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/SeuUsuario?style=social)
