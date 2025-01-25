@@ -7,7 +7,6 @@
 
 ## Tecnologias que uso:
 - 🌐 HTML, CSS, JavaScript
-- 🐍 Python
 - ☕ Java
 - 🛠️ Git e GitHub
 
