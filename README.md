@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-barros-399b41270/)
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-🌍 Buscando estágio na área como desenvolvedor
+🌍 Buscando estágio na área como desenvolvedor  
 💻 Apaixonado por tecnologias 
 
 ## Tecnologias que uso:
