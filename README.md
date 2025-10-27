@@ -11,9 +11,6 @@
 
 ---
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
-🌍 Buscando estágio na área como desenvolvedor  
-💻 Apaixonado por tecnologias 
 
 ## GitHub Stats
 ![GitHub followers](https://img.shields.io/github/followers/SeuUsuario?style=social)  
