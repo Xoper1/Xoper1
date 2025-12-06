@@ -1,7 +1,7 @@
 ### Olá, eu sou o Xoper. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-barros-399b41270/)
 
-## 💼 Skills & Foco
+## SKILLS
 [![Software Developer](https://img.shields.io/badge/Software%20Developer-000000?style=for-the-badge&logo=koding&logoColor=white)](LINK_OPCIONAL)
 [![Java & Spring Boot](https://img.shields.io/badge/Java%20&%20Spring%20Boot-F8991D?style=for-the-badge&logo=java&logoColor=white)](LINK_OPCIONAL)
 [![APIs REST](https://img.shields.io/badge/APIs%20REST-007FFF?style=for-the-badge&logo=rest&logoColor=white)](LINK_OPCIONAL)
